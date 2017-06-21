@@ -1,3 +1,4 @@
+# Simple Express Website
 Simple Node.js powered webpage using Express, Jade and Nodemail.
 Template is using Bootstrap's Jumbotron page, slightly modified.
 
@@ -42,10 +43,12 @@ host: 'smtp.example.com',
 
 In `mailOptions` your `from` field should match your `user.`
 
-<br>
-Keep in mind services like Gmail require you to enable "Less Secure Apps". Read more here [Allowing less secure apps to access Gmail](https://support.google.com/accounts/answer/6010255)
 
-<br>
+Keep in mind services like Gmail require you to enable "Less Secure Apps". Read more here
+[Allowing less secure apps to access Gmail](https://support.google.com/accounts/answer/6010255)
+
+
+
 ## Here's what the page looks like
 ![preview](http://i.imgur.com/xAgyDlh.png "Main page preview")
 
