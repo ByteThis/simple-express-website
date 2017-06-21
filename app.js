@@ -36,7 +36,7 @@ app.post('/contact/send',function(req,res){
 		secure: true,
 		//Credentials go here
 		auth: {
-			user: 'example@zoho.com',
+			user: 'email@example.com',
 			pass: 'password'
 		}
 	});
