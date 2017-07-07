@@ -50,5 +50,5 @@ Keep in mind services like Gmail require you to enable "Less Secure Apps". Read 
 
 
 ## Here's what the page looks like
-![preview](http://i.imgur.com/xAgyDlh.png "Main page preview")
+![preview](http://i.imgur.com/QTqmD5R.png "Main page preview")
 
